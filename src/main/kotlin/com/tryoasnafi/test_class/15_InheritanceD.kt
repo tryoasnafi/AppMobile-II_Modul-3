@@ -1,7 +1,7 @@
 package com.tryoasnafi.test_class
 
 import java.text.NumberFormat
-import java.util.*
+import java.util.Locale
 
 open class Job {
     // gunakan keyword open sehingga dapat ditulis ulang oleh child class
